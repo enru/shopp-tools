@@ -1,0 +1,10 @@
+SHOPP TOOLS
+===========
+
+dbimg2fsimg.php
+
+... is a tool for The Shopp e-commerce plugin for Wordpress. 
+It will convert all images stored in your database into filesystem images.
+Upload it to your web directory, run it then remove it.
+
+That's all folks.
